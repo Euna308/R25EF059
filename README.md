@@ -7,3 +7,5 @@ My name is Chethana, and I am an engineering student studying Computer Science. 
 Learning C programming
 
 Interested in web development
+
+Goal: Contribute to open source
