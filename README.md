@@ -9,3 +9,7 @@ Learning C programming
 Interested in web development
 
 Goal: Contribute to open source
+
+## Projects
+
+I am working on a Fire and Smoke Detection project using Arduino UNO.
